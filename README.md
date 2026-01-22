@@ -12,9 +12,4 @@ What This Project Does :
    Show occupied parking slots
    Show ticket details
 
-Technologies Used :
-
-   Java
-   GitHub
-
   <img width="782" height="268" alt="image" src="https://github.com/user-attachments/assets/500acb82-8b9f-42a3-93dc-0f7b125f936b" />
