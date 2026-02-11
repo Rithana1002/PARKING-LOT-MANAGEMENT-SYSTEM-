@@ -11,5 +11,6 @@ What This Project Does :
    Remove vehicle using ticket ID
    Show occupied parking slots
    Show ticket details
-
-  <img width="782" height="268" alt="image" src="https://github.com/user-attachments/assets/500acb82-8b9f-42a3-93dc-0f7b125f936b" />
+   
+   Structure:<img width="387" height="491" alt="image" src="https://github.com/user-attachments/assets/cec3b3fe-f594-4406-a362-25df135a905e" />
+   <img width="782" height="268" alt="image" src="https://github.com/user-attachments/assets/500acb82-8b9f-42a3-93dc-0f7b125f936b" />
